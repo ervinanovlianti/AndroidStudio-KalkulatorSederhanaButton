@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string-array name="spinner"
+        >
+        <item>Pilih Operator</item>
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
